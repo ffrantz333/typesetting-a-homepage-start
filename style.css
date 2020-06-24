@@ -43,3 +43,12 @@ header, footer {
 }
 
 /* WRITE YOUR CODE BELOW HERE */
+
+html {
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
